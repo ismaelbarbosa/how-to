@@ -1,4 +1,4 @@
-\# How To
+# How To
 
 
 
@@ -6,23 +6,15 @@ Repositório pessoal com tutoriais e procedimentos.
 
 
 
-\## VirtualBox
+## VirtualBox
 
 
 
-\- \[Instalar e configurar uma máquina Ubuntu Server](virtualbox/ubuntu-server.md)
+- [Instalar e configurar uma máquina Ubuntu Server](virtualbox/ubuntu-server.md)
 
 
 
-\## Linux
-
-
-
-Em construção.
-
-
-
-\## Git
+## Linux
 
 
 
@@ -30,7 +22,15 @@ Em construção.
 
 
 
-\## PHP
+## Git
+
+
+
+Em construção.
+
+
+
+## PHP
 
 
 

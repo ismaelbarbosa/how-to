@@ -1,8 +1,8 @@
-\# Instalar e configurar uma máquina Ubuntu Server no VirtualBox
+# Instalar e configurar uma máquina Ubuntu Server no VirtualBox
 
 
 
-\## Objetivo
+## Objetivo
 
 
 
@@ -10,39 +10,39 @@ Criar uma máquina Ubuntu Server no VirtualBox e habilitar acesso SSH.
 
 
 
-\## Requisitos
+## Requisitos
 
 
 
-\- VirtualBox instalado
+- VirtualBox instalado
 
-\- ISO Ubuntu Server
+- ISO Ubuntu Server
 
-\- 4GB RAM recomendados
+- 4GB RAM recomendados
 
-\- 25GB de disco
-
-
-
-\## Criando a máquina virtual
+- 25GB de disco
 
 
 
-1\. Abrir VirtualBox
-
-2\. Clicar em Novo
-
-3\. Nome: Ubuntu Server
-
-4\. Selecionar ISO
-
-5\. Configurar memória
-
-6\. Criar disco
+## Criando a máquina virtual
 
 
 
-\## Configuração de rede
+1. Abrir VirtualBox
+
+2. Clicar em Novo
+
+3. Nome: Ubuntu Server
+
+4. Selecionar ISO
+
+5. Configurar memória
+
+6. Criar disco
+
+
+
+## Configuração de rede
 
 
 
@@ -50,7 +50,7 @@ Conteúdo em construção...
 
 
 
-\## SSH
+## SSH
 
 
 
